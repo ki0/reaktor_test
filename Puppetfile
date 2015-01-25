@@ -1,3 +1,3 @@
-moduledir 'modules'
-mod 'apache',
-  :git => 'https://github.com/puppetlabs/puppetlabs-apache'
+mod '.',
+  :git => 'git@bitbucket.org:kimiasol/puppet',
+  :branch => 'testing'
